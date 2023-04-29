@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelvin Mutugi</h1>
-<h2 align="center">A passionate frontend developer from Nairobi,Kenya</h2>
-
-<p align="left"> I am a Front-end Developer with great passion in designinng and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaging interfaces. </p>
+<h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e479sqdyhmk2uxwwf3crpp5pjvmo0fn2frq05h8eqvt&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+<p align="left"> <a href="https://twitter.com/kelvinmutugi_" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinmutugi_?logo=twitter&style=for-the-badge" alt="kelvinmutugi_" /></a> </p>
 
 - 🌱 I’m currently learning **ExpressJs, TailwindCSS**
 
@@ -10,8 +10,6 @@
 - 📫 How to reach me **kelvinmutuginjiru@gmail.com**
 
 - ⚡ Fun fact **: I love good company, music, travelling,movies and volunteering**
-
-<p align="left"> <a href="https://twitter.com/kelvinmutugi_" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinmutugi_?logo=twitter&style=for-the-badge" alt="kelvinmutugi_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
