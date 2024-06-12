@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e479sqdyhmk2uxwwf3crpp5pjvmo0fn2frq05h8eqvt&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 <p align="left"> <a href="https://twitter.com/kelvinmutugi_" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinmutugi_?logo=twitter&style=for-the-badge" alt="kelvinmutugi_" /></a> </p>
 
-- 🌱 I’m currently learning **ExpressJs, TailwindCSS**
+- 🌱 I’m currently working on fullstack projects
 
 - 💬 Ask me about **React**
 
